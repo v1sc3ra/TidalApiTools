@@ -18,7 +18,7 @@ def main():
     playlist_id = playlist_url.split("/")[-1].split("?")[0]
 
     # Load playlist
-    playlist = session.get_playlist(playlist_id)
+    playlist = session.playlist(playlist_id)
 
     print(f"Playlist name: {playlist.name}")
     print(f"Found {playlist.num_tracks} tracks.\n")
