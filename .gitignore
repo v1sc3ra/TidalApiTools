@@ -1,4 +1,4 @@
 __pycache__/
 *.pyc
 .venv/
-albums_from_playlist.txt
+albums_from_playlist.txt.idea/
