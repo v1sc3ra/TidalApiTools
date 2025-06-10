@@ -51,4 +51,3 @@ Example saved albums_from_playlist.txt:
 ```
 https://tidal.com/album/123456789
 https://tidal.com/album/987654321
-...
