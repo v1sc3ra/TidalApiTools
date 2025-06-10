@@ -51,3 +51,12 @@ Example saved albums_from_playlist.txt:
 ```
 https://tidal.com/album/123456789
 https://tidal.com/album/987654321
+```
+
+## Future Plans
+
+1. Add support for extracting artist URLs
+2. Add Progress bar
+3. Add support for exporting tracklists
+4. Add batch album downloader integration (OrpheusDl, etc.)
+5. Cache TIDAL login sessions for faster usage
