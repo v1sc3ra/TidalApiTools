@@ -1,6 +1,6 @@
 # TidalApiTools
 
-A simple Python project for interacting with the TIDAL API using [`tidalapi`](https://github.com/tamland/python-tidal).
+Music archival tool to archive data from the tidal api using [`tidalapi`](https://github.com/tamland/python-tidal).
 
 ## Features
 
