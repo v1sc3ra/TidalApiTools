@@ -1,0 +1,12 @@
+certifi==2025.4.26
+charset-normalizer==3.4.2
+idna==3.10
+isodate==0.7.2
+mpegdash==0.4.0
+python-dateutil==2.9.0.post0
+ratelimit==2.2.1
+requests==2.32.4
+six==1.17.0
+tidalapi==0.8.3
+typing_extensions==4.14.0
+urllib3==2.4.0
